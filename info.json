@@ -1,0 +1,13 @@
+{
+  "name": "warptorio2_lootchest_locator",
+  "version": "0.2.0",
+  "title": "Warptorio2 Loot Chest Locator",
+  "author": "DaCyclops",
+  "homepage": "",
+  "contact": "dacyclops@dacyclops.com",
+  "description": "Systems for locating Warp Loot Chests.",
+  "factorio_version":"1.1",
+  "dependencies": [
+    "warptorio2"
+  ]
+}
